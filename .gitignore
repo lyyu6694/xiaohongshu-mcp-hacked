@@ -1,0 +1,10 @@
+# Runtime secrets / state
+cookies.json
+notifications_replied.json
+logs/
+*.log
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
